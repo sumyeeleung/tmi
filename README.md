@@ -1,5 +1,5 @@
 # tmi #project
-The Minimalist Interface
-Inspired by Minesweeper
-Developed base on Jonathan Reus's code
+The Minimalist Interface<br>
+Inspired by Minesweeper<br>
+Developed base on Jonathan Reus's code<br>
 Thanks for big help from Asgard Wong
